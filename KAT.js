@@ -8,4 +8,4 @@
 **/
 
 // Initialize KATL.js
-Kit.init(Processing, document.getElementById("canvas-container"), "6359710655152128");
+Kit.init(Processing, document.getElementById("canvas-container"), "kat-source-code");
