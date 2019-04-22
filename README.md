@@ -1,2 +1,4 @@
 # KAT
-A Khan Academy Terminal
+## A terminal project made in Khan Academy
+
+# More Features Coming Soon!
